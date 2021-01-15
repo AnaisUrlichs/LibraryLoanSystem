@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=LoanSystemTest
+comment0.text=\n\ The\ test\ class\ LoanSystemTest.\n\n\ @author\ \ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=is
+comment1.target=LoanSystemTest(LoanSystem)
+comment1.text=\n\ Default\ constructor\ for\ test\ class\ LoanSystemTest\n
+comment2.params=is
+comment2.target=void\ testSize(LoanSystem)
+comment3.params=is
+comment3.target=void\ testSort(LoanSystem)
+comment4.params=is
+comment4.target=void\ testPrintReport(LoanSystem)
+comment5.params=is
+comment5.target=void\ testDelete(LoanSystem)
+comment6.params=is
+comment6.target=void\ testTaskFour(LoanSystem)
+comment7.params=is
+comment7.target=void\ testAddItem(LoanSystem)
+comment8.params=is
+comment8.target=void\ test(LoanSystem)
+numComments=9

@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=DVDs
+comment0.text=\n\ Class\ DVDs\ that\ inherits\ the\ methods\ from\ the\ abstract\ class\ LoanItems\n\ DVDs\ is\ a\ child\ of\ LoanItems\n\n\ \n\ @1.0.0\n
+comment1.params=publisher\ title\ libraryID\ lent\ date
+comment1.target=DVDs(java.lang.String,\ java.lang.String,\ int,\ boolean,\ int)
+comment2.params=
+comment2.target=void\ setSuperType()
+comment3.params=newPublisher
+comment3.target=void\ setPublisher(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getName()
+numComments=5
